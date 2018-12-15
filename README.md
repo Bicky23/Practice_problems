@@ -1,3 +1,3 @@
-# Solutions to some practice problems from the book RealPython
+# Common Python problems
 
-Feel free to modify any solution
+Contains Python solutions from RealPython's Part 1 book
